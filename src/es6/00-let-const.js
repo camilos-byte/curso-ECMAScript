@@ -34,3 +34,5 @@ const fruits = () =>{
 fruits();
 
 
+const b = 'a'; 
+const b = 'b';

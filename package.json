@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+<<<<<<< HEAD
     "package-json": "^8.1.0"
+=======
+    "node-fetch": "^3.3.0"
+>>>>>>> ef9d96b3c3a526d3cb9bc77c69d33890055e88ba
   },
   "devDependencies": {},
   "scripts": {
@@ -15,10 +19,17 @@
     "url": "git+https://github.com/camilos-byte/curso-ECMAScript.git"
   },
   "keywords": [
+<<<<<<< HEAD
     "javascript",
     "ecmascript"
   ],
   "author": "Andres Salgado",
+=======
+    "js",
+    "ecmascript"
+  ],
+  "author": "andres",
+>>>>>>> ef9d96b3c3a526d3cb9bc77c69d33890055e88ba
   "license": "MIT",
   "type": "module",
   "bugs": {
