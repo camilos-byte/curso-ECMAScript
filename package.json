@@ -1,0 +1,28 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "package-json": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilos-byte/curso-ECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Andres Salgado",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/camilos-byte/curso-ECMAScript/issues"
+  },
+  "homepage": "https://github.com/camilos-byte/curso-ECMAScript#readme"
+}
